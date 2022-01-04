@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wenbing-Yao
+- 👋 Hi, I’m @爱吃猫的鱼
 - 👀 I’m interested in python, django, blockchain, reinforcement learning, cryptocurrency, ...
 - 🌱 I’m currently developing a website for sharing articles about CS-related research papers. View it [here](https://paperexplained.cn).
 - 💞️ I’m looking to collaborate on developing an algorithm framework for reinforcement learning.
